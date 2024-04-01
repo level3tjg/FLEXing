@@ -9,6 +9,7 @@
 #pragma mark Imports
 
 #import <UIKit/UIKit.h>
+#import <libroot.h>
 #include <dlfcn.h>
 
 
